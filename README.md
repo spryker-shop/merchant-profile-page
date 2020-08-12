@@ -4,6 +4,8 @@
 
 This module provides information about the merchant profile.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
