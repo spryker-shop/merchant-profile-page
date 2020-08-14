@@ -4,6 +4,10 @@
 
 This module provides information about the merchant profile.
 
+**DEPRECATED - This module is not continued at this point.**
+**Functionality that renders merchant profile info was moved to https://github.com/spryker-shop/merchant-profile-widget.**
+**Use it together with https://github.com/spryker-shop/merchant-page to have similar UI experience.**
+
 ## Installation
 
 ```

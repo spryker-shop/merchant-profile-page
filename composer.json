@@ -33,5 +33,6 @@
   },
   "config": {
     "sort-packages": true
-  }
+  },
+  "abandoned": "spryker-shop/merchant-profile-widget"
 }
